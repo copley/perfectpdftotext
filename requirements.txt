@@ -1,0 +1,7 @@
+psutil
+pytesseract
+pdf2image
+opencv-python
+numpy
+tqdm
+PyPDF2
